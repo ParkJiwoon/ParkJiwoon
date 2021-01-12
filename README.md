@@ -6,7 +6,7 @@ Using **Spring Boot with Java & Kotlin**, RubyOnRails and NextJS with TypeScript
 
 Currently interested in Functional & Reactive Programming and Spring Webflux
 
-[![Jiwoon's github stats](https://github-readme-stats.vercel.app/api?username=ParkJiwoon)](https://github.com/bcp0109/github-readme-stats)
+[![Jiwoon's github stats](https://github-readme-stats.vercel.app/api?username=ParkJiwoon&show_icons=true&theme=tokyonight)](https://github.com/bcp0109/github-readme-stats)
 
 <div align=center>
 
