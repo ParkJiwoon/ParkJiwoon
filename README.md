@@ -1,6 +1,6 @@
 ## 👨🏻‍💻  Jiwoon Park 
 
-I am **Back-end Engineer**
+**Back-end Engineer**
 
 Using **Spring Boot with Java & Kotlin**, RubyOnRails and NextJS with TypeScript
 
