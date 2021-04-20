@@ -2,7 +2,7 @@
 
 **Back-end Engineer**
 
-Using **Spring Boot with Java & Kotlin**, RubyOnRails and NextJS with TypeScript
+Using **Spring Boot with Java & Kotlin**
 
 Currently interested in Functional & Reactive Programming and Spring Webflux
 
