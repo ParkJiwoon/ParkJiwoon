@@ -4,8 +4,6 @@
 
 Using **Spring Boot with Java & Kotlin**
 
-Currently interested in Design Pattern & Clean Architecture & CI/CD
-
 [![Jiwoon's github stats](https://github-readme-stats.vercel.app/api?username=ParkJiwoon&show_icons=true&theme=tokyonight)](https://github.com/bcp0109/github-readme-stats)
 
 <div align=center>
